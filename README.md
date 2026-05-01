@@ -79,4 +79,4 @@ Frontend runs on `http://localhost:5173` and backend on `http://localhost:5000`.
 - Live URL
 - GitHub repo
 - README
-- 2-5 min demo video
+
